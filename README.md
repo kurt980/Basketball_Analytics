@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @kurt980
-- 👀 I’m interested in sleeping
-- 🌱 I’m currently learning sleeping
-- 💞️ I’m looking to collaborate on sleeping
-- 📫 How to reach me don't
+- 👋 Hi, this is a personal project for basketball data analytics topics
 
 <!---
 kurt980/kurt980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
